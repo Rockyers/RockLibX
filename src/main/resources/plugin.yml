@@ -1,0 +1,7 @@
+name: RockLibX
+version: '${project.version}'
+main: me.rockyers.rocklibx.RockLibX
+api-version: 1.16
+load: STARTUP
+authors: [ Rockyers ]
+description: A general purpose Spigot plugin API
