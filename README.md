@@ -1,2 +1,2 @@
 # RockLibX
-The updated and overall just better version of my old library "RockLib"
+A general use library for Minecraft plugins!
