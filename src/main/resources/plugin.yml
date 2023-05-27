@@ -1,0 +1,9 @@
+name: RockLibX
+main: me.rockyers.rocklibx.RockLibX
+version: 1.0.0
+description: A general use library for Minecraft plugins
+load: STARTUP
+authors:
+  - Rockyers
+
+website: https://github.com/Rockyers/RockLibX
