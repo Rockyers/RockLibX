@@ -4,3 +4,13 @@
 A general use library for Minecraft plugins!
 
 # Currently in development!
+## TODO:
+- [ ] Commands
+- [ ] GUIs
+- [ ] Text
+- [ ] NPCs
+- [ ] Items
+- [ ] Enchantments
+- [ ] Files
+- [ ] Recipes
+- [ ] Misc
